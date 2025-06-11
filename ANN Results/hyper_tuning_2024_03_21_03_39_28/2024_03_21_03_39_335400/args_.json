@@ -1,0 +1,22 @@
+{
+    "path_inputs": "F:\\Codes\\joint attention\\Nano-particle\\output_new_new",
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "input_num_features": 35,
+    "output_num_features": 1,
+    "processed_features": "normalized_35",
+    "label_type": "r_avg_raw",
+    "batch_size": 256,
+    "lr_val": 0.5,
+    "num_epochs": 300,
+    "init_weights": "x_n",
+    "num_hidden_layers": 4,
+    "nodes_per_layer": [
+        256,
+        128,
+        64,
+        16
+    ],
+    "activation_f": "relu",
+    "hyperparam_tuning": true,
+    "device_manual": 1
+}

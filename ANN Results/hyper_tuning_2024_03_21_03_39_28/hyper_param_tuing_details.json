@@ -1,0 +1,603 @@
+{
+    "batch_size": 1,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.5,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.1,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.01,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.0005,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 0.0001,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 5e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 1,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 2,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 4,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 8,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 16,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 32,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 64,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 128,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 256,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "batch_size": 512,
+    "lr_val": 1e-05,
+    "hyperparam_tuning": true,
+    "path_outputs": "F:\\Codes\\joint attention\\Nano-particle\\FFNN_hyper_param_tuning\\hyper_tuning_2024_03_21_03_39_28",
+    "Time_for_training": -1
+}{
+    "Time_for_hyper_tuning": 19300.171632289886
+}
